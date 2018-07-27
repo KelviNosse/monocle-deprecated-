@@ -6,6 +6,10 @@
 
 <p align="center">Simple and fun boilerplate for automated tests with WebdriverIO and BrowserStack :microscope: :tea:</p>
 
+## Framework
+
+- Mocha
+
 ## Features
 
 - Page Objects Model usage with ES6 style class base approach and fully ES6 - ES8 support through Babel
